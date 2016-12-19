@@ -10,6 +10,8 @@ import shutil as sh
 Implements an ensemble of random walks and returns the endpoint of each
 """
 
+
+
 def walk(points, steps, plot_step):
     """
     Generates random walks for a given number of particles in a given number of steps. The steps are represented
