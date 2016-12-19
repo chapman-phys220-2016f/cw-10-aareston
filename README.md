@@ -1,8 +1,8 @@
 # PHYS220 CW 10 
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** Aaron Grisez
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-10-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-10-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-10-aareston.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-10-aareston)
 
 **Due date:** 2016/11/08
 
@@ -24,7 +24,7 @@ Pro-tip: using git to manage conflicts on Jupyter notebooks is a pain. I recomme
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+Walk still isn't working perfectly
 
 ## Honor Pledge
 
@@ -35,4 +35,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Aaron Grisez
