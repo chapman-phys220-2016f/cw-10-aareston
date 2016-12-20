@@ -1,6 +1,6 @@
 # PHYS220 CW 10 
 
-**Author(s):** Aaron Grisez
+**Author(s):** Aaron Grisez, Preston Kamada
 
 [![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-10-aareston.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-10-aareston)
 
@@ -36,3 +36,4 @@ I pledge that all the work in this repository is my own with only the following 
 Signed,
 
 Aaron Grisez
+Preston S Kamada
